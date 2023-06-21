@@ -1,0 +1,16 @@
+Matrix Multiplication -> Inverse -> Close -> Integration -> Double Integration -> Differentiation -> Close -> Polynomial
+
+
+RPPOOP Project
+
+Modes - 
+2 inputs -
+Addition, Subtraction, Multiplication
+1 input - 
+Transpose, Determinant, Inverse, Power of 
+
+Extra - (Random Value Generate Button)
+Calculators -
+Integration
+Differentiation
+Roots of Polynomial
